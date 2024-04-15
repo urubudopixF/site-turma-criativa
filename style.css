@@ -6,7 +6,7 @@
 
 
 .cabecalho-imagem{.
-    background-color: azul;
+    color: azul;
     display: flex;
     justify-content: space-around;
 }
