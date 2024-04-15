@@ -1,11 +1,8 @@
 .colegio1 {
     background-color: rgb(175, 117, 42);
+    display: flex;
 }
 
 .colegio1-imagem{
 width: 40%   
 }
-
-    .colegio1-lista-item{
-        width: 20%;
-    }
