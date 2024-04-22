@@ -21,8 +21,8 @@ width: 100%
 }
 .escola-imagem{
     width: 40%;
-    margin: 0 600px;
-    padding: 0 600px;
+    margin: 0 0;
+    padding: 0 0px;
 }
 .escola{
     background-color: color-mix(in srgb-linear, color percentage, color percentage);
