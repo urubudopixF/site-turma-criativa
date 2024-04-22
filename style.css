@@ -24,3 +24,6 @@ width: 100%
     margin: 0 600px;
     padding: 0 600px;
 }
+.escola{
+    background-color: color-mix(in srgb-linear, color percentage, color percentage);
+}
