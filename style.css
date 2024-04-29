@@ -22,10 +22,10 @@ width: 100%
 }
 .escola-imagem{
     width: 40%;
-    margin: 0 0;
-    padding: 0 0;
 }
 
-.escola-imagem{
+.escola{
     background-image: linear-gradient(#424E61,#4ebfe9);
+    color: white;
+    display: flex;
 }
