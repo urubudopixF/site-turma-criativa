@@ -25,7 +25,7 @@ width: 100%
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#4ebfe9);
+    background-image: linear-gradient(#e41ac9,#232c30);
     color: white;
     display: flex;
     justify-content: center;
@@ -40,6 +40,6 @@ width: 100%
     padding: 24px 0;
 }
 .cabecalho-imagem{
-    background-color: #424E61;
+    background-color:#e41ac9;
     color: white;
 }
