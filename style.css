@@ -28,4 +28,6 @@ width: 100%
     background-image: linear-gradient(#424E61,#4ebfe9);
     color: white;
     display: flex;
+.escola-div-conteudo{
+    width: 35%;
 }
