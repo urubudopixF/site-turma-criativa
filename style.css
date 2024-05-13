@@ -11,7 +11,7 @@ body{
       
 }
 .cabecalho-imagem{
-    background-color: #e41ac9, #424E61;
+    background-color: (#e41ac9, #424E61;)
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -68,7 +68,3 @@ width: 100%
     display: grid;
 }
 
-.cabecalho-imagem{
-    background-color: #e41ac9, #424E61;
-    color: white;
-}
