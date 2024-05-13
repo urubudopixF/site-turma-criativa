@@ -4,12 +4,9 @@
 }
 
 body{
-        font-family: "Poppins", sans-serif;
-        font-weight: 400;
-        font-style: normal;
+        font-family: "Poppins", sans-serif;  
       }
       
-}
 .cabecalho-imagem{
     background-color: #e41ac9;
     color: #424E61;
@@ -17,7 +14,6 @@ body{
     justify-content: space-around;
     align-items: center;
     padding: 10px 0;
-    margin: ;
 }
 
 .cabecalho-imagem{
