@@ -47,11 +47,14 @@ width: 100%
 .escola-titulo{
     padding: 24px 0;
 }
-.cabecalho-imagem{
+.escola-imagem{
     background-color:#e41ac9;
     color: white;
 }
 
 .estudante-icone{
     width: 24px;
+}
+.escola-div{
+    text-align: center;
 }
