@@ -68,3 +68,6 @@ width: 100%
     display: grid;
 }
 
+.cabecalho-imagem{
+    background-color: #e41ac9, #424E61;
+}
